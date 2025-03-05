@@ -1,0 +1,15 @@
+.container
+{
+    border: dotted rgb(29, 226, 29);
+}
+.inner-container
+{
+    padding: 20px;
+    margin: 5%;
+    border: solid rgb(173, 32, 173);
+
+}
+#heading
+{
+    font-style: italic;
+}
